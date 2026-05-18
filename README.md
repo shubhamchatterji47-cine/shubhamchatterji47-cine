@@ -30,11 +30,11 @@ Passionate Full Stack .NET Developer building secure, scalable, and modern web a
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shubhamchatterji47-cine&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamchatterji47-cine&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchatterji47-cine&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchatterji47-cine&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamchatterji47-cine)
+![GitHub Streak](https://streak-stats.demolab.com?user=shubhamchatterji47-cine&theme=tokyonight)
 
 ---
 
